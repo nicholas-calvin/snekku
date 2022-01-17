@@ -1,0 +1,38 @@
+.img-fluid {
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+}
+
+.cart-and-wish{
+    width: 100px;
+    border-right: 1px solid black;
+}
+
+.profile-icon img{
+    width: 23px;
+}
+
+.wish-button img{
+    width: 23px;
+}
+
+
+.cart-button img{
+    width: 23px;
+}
+
+.img-shoppingcart-item{
+    width: 100px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+footer{
+    background-color: #ea1c24;
+    color: white;
+}
